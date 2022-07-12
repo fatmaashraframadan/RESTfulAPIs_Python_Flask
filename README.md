@@ -1,14 +1,14 @@
 # RESTfulAPIs_Python_Flask
 
-#To test get_incomes() end point (GET)
+# To test get_incomes() end point (GET)
 http://localhost:5000/incomes
   
   
-#To test get_expenses() end point (GET)
+# To test get_expenses() end point (GET)
 http://localhost:5000/expenses
   
   
-#To test add_income() end point (POST)
+# To test add_income() end point (POST)
 http://localhost:5000/incomes
   
   JSON data 
@@ -17,7 +17,7 @@ http://localhost:5000/incomes
         "description": "loan payment"
   }
 
-#To test add_expense() end point (POST)
+# To test add_expense() end point (POST)
 http://localhost:5000/expenses
   
   JSON data 
